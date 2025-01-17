@@ -1,6 +1,6 @@
 # 💼 FİNANSAL CRM UYGULAMASI  
 
-<p>Bu proje, <strong>değerli hocam Murat Yücedağ'ın düzenlediği C# Bootcamp'i</strong> kapsamında geliştirilmiştir. Proje, finansal süreçleri yönetmek ve kullanıcı dostu bir deneyim sunmak amacıyla tasarlanmıştır.</p>  
+<p>Bu proje,değerli hocam <strong>Murat Yücedağ'ın</strong> düzenlediği </strong>C# Bootcamp'i</strong> kapsamında geliştirilmiştir. Proje, finansal süreçleri yönetmek ve kullanıcı dostu bir deneyim sunmak amacıyla tasarlanmıştır.</p>  
 
 ---
 
