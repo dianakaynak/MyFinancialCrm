@@ -13,16 +13,7 @@
 - **📦 Object-Oriented Programming (OOP)**: Modüler ve ölçeklenebilir yapı sağlamak için.  
 
 ---
-
-## ✨ PROJE ÖZELLİKLERİ  
-<p>  
-<ul>  
-  <li>🏦 <strong>Banka bakiyelerini görüntüleme.</strong></li>  
-  <li>📜 <strong>Banka işlem geçmişini listeleme.</strong></li>  
-  <li>🔑 <strong>Kullanıcı girişi ve farklı modüller arasında geçiş.</strong></li>  
-  <li>👨‍💻 <strong>Kullanıcı dostu ve etkileşimli arayüz.</strong></li>  
-</ul>  
-</p>  
+ 
 ![Dashboard Formu](https://raw.githubusercontent.com/dianakaynak/MyFinancialCrm/master/crm2.png)
 
 
