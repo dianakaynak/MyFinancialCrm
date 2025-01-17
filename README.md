@@ -23,5 +23,5 @@
   <li>👨‍💻 <strong>Kullanıcı dostu ve etkileşimli arayüz.</strong></li>  
 </ul>  
 </p>  
-![Dashboard Formu](https://raw.githubusercontent.com/dianakaynak/MyFinancialCrm/master/crm2.png)
+![Dashboard Formu](https://github.com/dianakaynak/MyFinancialCrm/blob/master/crm2.png)
 
